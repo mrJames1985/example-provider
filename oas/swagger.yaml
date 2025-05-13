@@ -111,8 +111,6 @@ components:
           type: string
         type:
           type: string
-        name:
-          type: string
         version:
           type: string
         price:
